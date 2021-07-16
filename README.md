@@ -53,7 +53,7 @@
 ### 選考方法
 
 1. AWS Dev Day Online Japanコアメンバーによる審査
-2. **SNSでの反響（GitHubやTwitterのいいね数、RT数など）**
+2. **SNSでの反響（GitHubへのリアクションやTwitterのいいね数、RT数など）**
 
 1, 2 を総合的に判断し、採否を決定いたします
 
