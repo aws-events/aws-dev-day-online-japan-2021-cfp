@@ -64,7 +64,7 @@
 
 ### 過去のAWS Dev Day Online CFP採択セッションの例 (AWS Dev Day Online Japan 2020)
 
-[こちらから2020年開催の同様のイベントでのCFP採択セッション](https://aws.amazon.com/jp/about-aws/events/2020/devday/)をご覧いただくことができます（要登録）。ぜひご活用ください
+[こちらから2020年開催の同様のイベントでのCFP採択セッションの例](https://aws.amazon.com/jp/about-aws/events/2020/devday/)をご覧いただくことができます（要登録）。ぜひご活用ください
 
 :pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
 
