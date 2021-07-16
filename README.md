@@ -6,6 +6,8 @@
 
 :pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
 
+:rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues)
+
 ### 応募条件
 
 1. AWSを使った開発に関するトピックであること
@@ -65,6 +67,8 @@
 [こちらから2020年開催の同様のイベントでのCFP採択セッション](https://aws.amazon.com/jp/about-aws/events/2020/devday/)をご覧いただくことができます（要登録）。ぜひご活用ください
 
 :pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
+
+:rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues)
 
 皆様のご応募を心よりお待ちしております
 
