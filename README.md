@@ -5,7 +5,7 @@
 </p>
 
 以前より AWS Dev Day では幅広く開発者の皆様から経験事例を発表していただく「Call for Papers」をプログラムに取り入れています。 みなさまが培われたご経験、知見、そしてノウハウをこの場で共有していただけませんか？
-ご応募をご検討いただける場合は下記募集要項をご確認いただき、こちらのフォームをご利用の上ご応募ください。
+ご応募をご検討いただける場合は下記募集要項をご確認いただき、[こちらのフォーム](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)をご利用の上ご応募ください。
 なお、ご応募いただいたのち、選考を経て採否を決定させていただきます。予めご了承ください。
 
 :pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
