@@ -44,7 +44,7 @@
 6. プレゼンテーションの後で Ask the Speaker に参加していただけること
 7. セッション資料を事前(9月17日まで)に提出していただけること
 8. セッション資料の会期後の公開(投影用と多少異なっていてもかまいません)、動画の公開に同意していただけること
-9. 当ページのフォームを使用し応募登録を完了していること。また、同様に[イベント登録規約](https://aws.amazon.com/events/terms/)、および [AWS 行動規範 Code of Conduct](https://aws.amazon.com/codesofconduct/) に同意していること
+9. [イベント登録規約](https://aws.amazon.com/events/terms/)、および [AWS 行動規範 Code of Conduct](https://aws.amazon.com/codesofconduct/) に同意していること（応募フォームで同意の意思表示を行う）
 
 ### セッション時間
 
