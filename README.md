@@ -70,7 +70,7 @@ AWS がご提供する開発者のための技術の祭典「AWS Dev Day Online 
 
 [こちらから2020年開催の同様のイベントでの CFP 採択セッションの例](https://aws.amazon.com/jp/about-aws/events/2020/devday/)をご覧いただくことができます (要登録)。ぜひご活用ください
 
-:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new)
+:pencil: [セッション応募フォームはこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/new/choose)
 
 :rocket: [現在の応募済みセッション一覧はこちら](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues)
 
