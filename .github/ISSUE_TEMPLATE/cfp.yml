@@ -1,6 +1,6 @@
 name: AWS Dev Day Online Japan 2021年 Call for Papers 応募フォーム
 description: AWS Dev Day Online Japan Call for Papers へのご応募をご検討頂きありがとうございます。下記のフォームに必要事項をご記入の上、Submitしてください。
-title: "[CFP]: <セッションタイトルを最大40文字程度で記入してください>"
+title: "<セッションタイトルを最大40文字程度で記入してください>"
 labels: [cfp]
 assignees:
   - khenovia
