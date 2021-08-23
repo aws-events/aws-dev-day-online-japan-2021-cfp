@@ -4,13 +4,92 @@
   <img src="res/banner.png" />
 </p>
 
-## 2021/08/19 UPDATE
-
 本イベントへの CfP 応募は 2021年8月17日(火) 23:59 JST を以って締め切りました。たくさんのご応募ありがとうございました。
 
-AWS Dev Day Online Japan 2021 は 2021年9月28日(火)～30日(木) の3日間、10:00～18:30 JST のスケジュールで開催予定です。タイムテーブルの発表までしばらくお待ちください。
+AWS Dev Day Online Japan 2021 は 2021年9月28日(火)～30日(木) の3日間、以下のタイムテーブルで開催予定です。
 
-:rocket: [採択セッションの一覧はこちらからご覧いただけます](https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues?q=is%3Aopen+is%3Aissue+label%3Aaccepted)
+## Day1 - 2021/9/28(火)
+
+<table>
+  <thead>
+    <tr>
+      <th>開始時間 (JST)</th>
+      <th>トラック 1</th>
+      <th>トラック 2</th>
+      <th>トラック 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>xx:yy</td>
+      <td colspan=3>General session</td>
+    </tr>
+    <tr>
+      <td>xx:yy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+## Day2 - 2021/9/29(水)
+
+<table>
+  <thead>
+    <tr>
+      <th>開始時間 (JST)</th>
+      <th>トラック 1</th>
+      <th>トラック 2</th>
+      <th>トラック 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>xx:yy</td>
+      <td colspan=3>General session</td>
+    </tr>
+    <tr>
+      <td>xx:yy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>xx:yy</td>
+      <td colspan=3>General session</td>
+    </tr>
+  </tbody>
+</table>
+
+## Day3 - 2021/9/30(木)
+
+<table>
+  <thead>
+    <tr>
+      <th>開始時間 (JST)</th>
+      <th>トラック 1</th>
+      <th>トラック 2</th>
+      <th>トラック 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>xx:yy</td>
+      <td colspan=3>General session</td>
+    </tr>
+    <tr>
+      <td>xx:yy</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>xx:yy</td>
+      <td colspan=3>General session</td>
+    </tr>
+  </tbody>
+</table>
 
 ## AWS Dev Day Online Japan とは
 
