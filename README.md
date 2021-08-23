@@ -47,7 +47,7 @@
     <tr>
       <td>5:00 PM</td><td>5:40 PM</td>
       <td>A-4<br />2021年版、サーバーレスのテスト手法を考える<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/2">#2</a> / <a href="https://twitter.com/_kensh" target="_blank">@_kensh</a></td>
-      <td>B-4<br />AWSを活用した非同期的Webアプリケーション開発のナレッジ<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/17">#17</a> / <a href="https://twitter.com/yukiozasa" target="_blank">@yukiozasa</a></td>
+      <td>B-4<br />分散型チームによるAWSを活用したWebアプリケーション開発のナレッジ<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/17">#17</a> / <a href="https://twitter.com/yukiozasa" target="_blank">@yukiozasa</a></td>
       <td>C-4<br />Amazon Pay for Alexa + ブロックチェーンを使った寄付アプリを実装<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/4">#4</a> / <a href="https://twitter.com/johna1203" target="_blank">@johna1203</a></td>
     </tr>
     <tr>
