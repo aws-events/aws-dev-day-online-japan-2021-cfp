@@ -6,7 +6,7 @@
 
 本イベントへの CfP 応募は 2021年8月17日(火) 23:59 JST を以って締め切りました。たくさんのご応募ありがとうございました。
 
-AWS Dev Day Online Japan 2021 は 2021年9月28日(火)～30日(木) の3日間、以下のタイムテーブルで開催予定です。
+<a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" target="_blank">AWS Dev Day Online Japan 2021</a> は 2021年9月28日(火)～30日(木) の3日間、以下のタイムテーブルで開催予定です。
 
 :rocket: <a href="https://pages.awscloud.com/AWS-Dev-Day-Online-Japan-2021-registration.html" target="_blank">**AWS Dev Day Online Japan 2021 参加登録はこちらから！**</a>:rocket:
 
