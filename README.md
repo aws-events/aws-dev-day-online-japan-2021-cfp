@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td>1:00 PM</td><td>2:00 PM</td>
-      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">CTO と語る 『なぜ Developer はビジネスを理解すべきなのか』</a><br /><br />太田 一樹 氏 トレジャーデータ (Treasure Data, Inc.) CEO / 塚田 朗弘 (アマゾン ウェブ サービス ジャパン株式会社 Head of Startup Solutions Architect)</td>
+      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">CTO と語る 『なぜ Developer はビジネスを理解すべきなのか』</a><br /><br />太田 一樹 氏 米国トレジャーデータ社 (Treasure Data, Inc.) CEO / 塚田 朗弘 (アマゾン ウェブ サービス ジャパン株式会社 Head of Startup Solutions Architect)</td>
     </tr>
     <tr>
       <td>2:15 PM</td><td>2:55 PM</td>
@@ -120,7 +120,7 @@
   <tbody>
     <tr>
       <td>1:00 PM</td><td>2:00 PM</td>
-      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">Developer が考慮すべきセキュリティ</a><br /><br />岡田 良太郎 氏 (株式会社アスタリスクリサーチ エグゼクティブアドバイザ/代表取締役 総務省サイバー演習CYDER委員) / 金森 政雄 (アマゾン ウェブ サービス ジャパン株式会社ソリューション アーキテクト)</td>
+      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">Developer が考慮すべきセキュリティ</a><br /><br />岡田 良太郎 氏 (株式会社アスタリスク・リサーチ エグゼクティブアドバイザ/代表取締役 総務省サイバー演習CYDER委員) / 金森 政雄 (アマゾン ウェブ サービス ジャパン株式会社ソリューション アーキテクト)</td>
     </tr>
     <tr>
       <td>2:15 PM</td><td>2:55 PM</td>
