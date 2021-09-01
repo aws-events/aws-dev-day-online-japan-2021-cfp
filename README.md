@@ -120,7 +120,7 @@
   <tbody>
     <tr>
       <td>1:00 PM</td><td>2:00 PM</td>
-      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">Developer が考慮すべきセキュリティ</a><br /><br />岡田 良太郎 氏 (株式会社アスタリスク・リサーチ エグゼクティブアドバイザ/代表取締役 総務省サイバー演習CYDER委員) / 金森 政雄 (アマゾン ウェブ サービス ジャパン株式会社ソリューション アーキテクト)</td>
+      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">セキュリティとも仲良くなろう! ~ クラウドでもっと⾃由に開発するために~</a><br /><br />岡田 良太郎 氏 (株式会社アスタリスク・リサーチ エグゼクティブアドバイザ/代表取締役 総務省サイバー演習CYDER委員) / 金森 政雄 (アマゾン ウェブ サービス ジャパン株式会社ソリューション アーキテクト)</td>
     </tr>
     <tr>
       <td>2:15 PM</td><td>2:55 PM</td>
