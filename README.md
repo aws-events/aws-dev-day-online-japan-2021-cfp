@@ -147,7 +147,7 @@
     </tr>
     <tr>
       <td>5:55 PM</td><td>6:55 PM</td>
-      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">世の中には面白いことがたくさんある</a><br /><br />岡本 拓磨 氏 (ウミトロン株式会社 CEO 共同創業者／最高技術責任者) / 小佐野 剛 氏 (デザミス株式会社 開発本部 取締役 兼 CTO) / 北村 光毅 氏 (株式会社MICIN テックリード) / 大谷 勇毅 氏 (株式会社 RABO ソフトウェアエンジニア) / 原 トリ (Sr. Product Developer Advocate, Elastic Containers, アマゾン ウェブ サービス ジャパン株式会社)</td>
+      <td align="center" colspan="3"><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">世の中には面白いことがたくさんある</a><br /><br />岡本 拓磨 氏 (ウミトロン株式会社 CEO 共同創業者／最高技術責任者) / 小佐野 剛 氏 (デザミス株式会社 開発本部 取締役 兼 CTO) / 北村 光毅 氏 (株式会社MICIN テックリード) / 大谷 勇毅 氏 (株式会社 RABO ソフトウェアエンジニャー) / 原 トリ (Sr. Product Developer Advocate, Elastic Containers, アマゾン ウェブ サービス ジャパン株式会社)</td>
     </tr>
   </tbody>
 </table>
