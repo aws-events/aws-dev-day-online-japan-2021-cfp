@@ -29,7 +29,7 @@
     <tr>
       <td>2:15 PM</td><td>2:55 PM</td>
       <td>A-1<br />ゼロから始めるAppSync導入の軌跡と振り返り 〜課題も添えて〜<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/19">#19</a> / <a href="https://twitter.com/overgoro56" target="_blank">@overgoro56</a></td>
-      <td>B-1<br />調整中</td>
+      <td>B-1<br /><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">AWS Woman's Well-Architected ハッカソン 決勝戦</a><br/><br />MC: 池澤あやか</td>
       <td>C-1<br />プログラミング学習サービスのこれまでを支えてきた技術と、これからを創っていく技術<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/32">#32</a> / <a href="https://twitter.com/kzk_maeda" target="_blank">@kzk_maeda</a></td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
     <tr>
       <td>5:55 PM</td><td>6:35 PM</td>
       <td>A-5<br />[AWS Startup ゼミ] よくある課題を一気に解説！ 御社の技術レベルがアップする 2021 秋期講習<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/31">#31</a> / <a href="https://twitter.com/mats16k" target="_blank">@mats16k</a></td>
-      <td>B-5<br />調整中</td>
+      <td>B-5<br /><a href="https://aws.amazon.com/jp/about-aws/events/2021/devday/" taget="_blank">JAWS のイベントを支える Amplify とサーバーレス</a><br />松井 英俊 氏 (JAWS-UG 浜松支部 / 株式会社スタートアップテクノロジー テックリード)</td>
       <td>C-5<br />AWSサーバーレスが支える劇団ノーミーツのオンライン劇場<br /><a href="https://github.com/aws-events/aws-dev-day-online-japan-2021-cfp/issues/48">#48</a> / <a href="https://twitter.com/gagagahaku" target="_blank">@gagagahaku</a></td>
     </tr>
   </tbody>
